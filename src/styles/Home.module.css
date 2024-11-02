@@ -1,0 +1,18 @@
+/* pages/Home.module.css */
+.container {
+  padding: 16px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 32px;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.projectList {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+}
