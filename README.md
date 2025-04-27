@@ -1,5 +1,5 @@
 <h2>Idraclyr Template</h2>
-<p>✨A project based on "TypeScript" codes that has all the facilities and is suitable for corporate and personal subjects and resumes. </p>
+<p>✨A TypeScript-based project equipped with comprehensive functionalities, designed to accommodate both corporate and personal applications, including professional resumes. </p>
 
 ## Getting Started
 
@@ -16,18 +16,18 @@ npm run dev
 
 then Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 <br>
-<p>🤖This project has a day and night theme and you can provide all your corporate or personal services in the service section:</p>
+<p>🤖This project features a dynamic day-and-night theme, allowing you to seamlessly offer all corporate and personal services within the service section:</p>
 <img src="./public/home1.png">
 <img src="./public/home2.png">
 <br>
-<p>In the "About" section, you can enter all your abilities and relevant information in a specialized manner:</p>
+<p>In the 'About' section, you may present your skills and relevant information in a structured and specialized manner, ensuring clarity and professionalism:</p>
 <img src="./public/about.png">
 <br>
-<p>You can import portfolios and increase their number:</p>
+<p>You may import portfolios and expand their quantity as needed:</p>
 <img src="./public/project.png">
 <br>
-<p>This template has a very professional registration and login page that you can extend:</p>
+<p>This template features a highly professional registration and login page that can be further extended to meet specific requirements:</p>
 <img src="./public/signup.png">
 <br>
-<p>And finally, I will be very happy if you rate the project❤️</p>
+<p>Finally, I would be delighted if you could rate the project❤️</p>
 
